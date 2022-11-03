@@ -22,6 +22,21 @@
 
 LINK1104 error 的解决方法 http://t.zoukankan.com/esCharacter-p-8808727.html
 
+
+## 再补一下games101环境配置
+
+### eigen的安装
+https://blog.csdn.net/wilsonass/article/details/90754525
+
+选择C/C++  -》常规  -》  包含目录 
+
+目录地址: cmake过后eigine的地址（好像不用make 原地址就行了） D:\eigen-3.4.0;%(AdditionalIncludeDirectories)
+
+### opencv
+
+https://blog.csdn.net/m0_47854694/article/details/115261082
+
+
 # Reference
 
 * https://developer.aliyun.com/article/791142
