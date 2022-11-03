@@ -17,3 +17,10 @@
 3. debug模式选择x64 
 
 LINK1104 error 的解决方法 http://t.zoukankan.com/esCharacter-p-8808727.html
+
+# Reference
+
+* https://developer.aliyun.com/article/791142
+* https://www.cnblogs.com/gamer610/p/16803642.html
+* https://blog.csdn.net/qq_33957603/article/details/123512334
+* http://t.zoukankan.com/esCharacter-p-8808727.html
