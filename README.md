@@ -12,9 +12,13 @@
 
 1. 在项目属性中选择C/C++ -> 预处理器 -> 预处理器定义 NDEBUG必须添加到Debug模式中。
 
+
+
 2. 编辑"附加依赖项"， 将  "freeglut.lib;glew32.lib;glfw3.lib;OpenGL32.lib;"复制进去，
 
-3. debug模式选择x64 
+3. 在项目属性 ----> C/C++ —> 附加包含目录 —> your_path\glad\include
+
+4. debug模式选择x64 
 
 LINK1104 error 的解决方法 http://t.zoukankan.com/esCharacter-p-8808727.html
 
