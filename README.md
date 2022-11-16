@@ -44,6 +44,10 @@ https://blog.csdn.net/m0_47854694/article/details/115261082
 * 库目录 D:\opencv\build\x64\vc15\lib�
 * 附加依赖项 opencv_world460d.lib 
 
+## QT 安装
+
+* 这个没怎么记录 就是安装qt，然后下载一个插件可以在vs使用，也可以更改成x64编译格式
+
 # Reference
 
 * https://developer.aliyun.com/article/791142
