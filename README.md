@@ -19,7 +19,10 @@
 
 3. 在项目属性 ----> C/C++ —> 附加包含目录 —> your_path\glad\include
 
-4. debug模式选择x64 
+4. 在项目中添加glad.c文件
+
+5. debug模式选择x64 
+
 
 LINK1104 error 的解决方法 http://t.zoukankan.com/esCharacter-p-8808727.html
 
