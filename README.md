@@ -49,7 +49,7 @@ https://blog.csdn.net/m0_47854694/article/details/115261082
 
 ## QT 安装
 
-* 这个没怎么记录 就是安装qt，然后下载一个插件可以在vs使用，也可以更改成x64编译格式
+* 这个没怎么记录 就是安装qt，然后下载一个插件可以在vs使用，也可以更改成x64编译格式，具体的修改方式 qtproject-settings 更改msvc_64
 
 # Reference
 
