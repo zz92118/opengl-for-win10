@@ -23,6 +23,8 @@
 
 5. debug模式选择x64 
 
+6. NDEBUG 模式 在项目属性中选择C/C++ -> 预处理器 -> 预处理器定义
+
 
 LINK1104 error 的解决方法 http://t.zoukankan.com/esCharacter-p-8808727.html
 
