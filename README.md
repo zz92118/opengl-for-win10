@@ -64,7 +64,7 @@ https://blog.csdn.net/m0_47854694/article/details/115261082
 
 * VC++目录 包含目录 D:\opencv\build\include\opencv2;D:\opencv\build\include;$(IncludePath)�
 * 库目录 D:\opencv\build\x64\vc15\lib�
-* 附加依赖项 opencv_world460d.lib 
+* 连接器--输入--附加依赖项 opencv_world460d.lib 
 
 ## QT 安装
 
