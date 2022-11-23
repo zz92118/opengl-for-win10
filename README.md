@@ -1,4 +1,21 @@
 # opengl-for-win10
+
+
+## win10 vs + cmake 的配置
+写好makefile文件
+
+mkdir
+
+cd build
+
+cmake .. -G "NMake Makefiles"
+
+nmake
+
+
+vs下需要使用nmake进行编译 cmake再vs2019不一定有用？？
+
+
 ## 记得在x64下编译运行
 
 ## 记录一下opengl 安装的心路历程 glad glfw glew freeglut
