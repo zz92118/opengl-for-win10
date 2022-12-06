@@ -34,7 +34,7 @@ vs下需要使用nmake进行编译 cmake再vs2019不一定有用？？
 
 2. 编辑"附加依赖项"， 将  "freeglut.lib;glew32.lib;glfw3.lib;OpenGL32.lib;"复制进去，
 
-3. 在项目属性 ----> C/C++ —> 附加包含目录 —> your_path\glad\include
+3. 在项目属性 ----> C/C++ —> 附加包含目录 —> D:\glad\include
 
 4. 在项目中添加glad.c文件
 
