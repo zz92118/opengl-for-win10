@@ -42,6 +42,7 @@ vs下需要使用nmake进行编译 cmake再vs2019不一定有用？？
 
 6. NDEBUG 模式 在项目属性中选择C/C++ -> 预处理器 -> 预处理器定义
 
+7. #include <GL/glfw3.h>
 
 LINK1104 error 的解决方法 http://t.zoukankan.com/esCharacter-p-8808727.html
 
