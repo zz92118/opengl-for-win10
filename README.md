@@ -67,6 +67,12 @@ https://blog.csdn.net/m0_47854694/article/details/115261082
 * 库目录 D:\opencv\build\x64\vc15\lib�
 * 连接器--输入--附加依赖项 opencv_world460d.lib 
 
+## 再补一下LearnOpengl安装
+
+* glm
+* stio
+* 都是静态库，直接include添加就可以了
+
 ## QT 安装
 
 * 这个没怎么记录 就是安装qt，然后下载一个插件可以在vs使用，也可以更改成x64编译格式，具体的修改方式 qtproject-settings 更改msvc_64
