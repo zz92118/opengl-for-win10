@@ -77,6 +77,25 @@ https://blog.csdn.net/m0_47854694/article/details/115261082
 
 * 这个没怎么记录 就是安装qt，然后下载一个插件可以在vs使用，也可以更改成x64编译格式，具体的修改方式 qtproject-settings 更改msvc_64
 
+## openmesh
+
+1.项目-属性-VC++目录-包含目录-编辑
+添加：D:\OpenMesh8.1\include
+2.项目-属性-链接器-常规-附加库目录-编辑
+添加：D:\OpenMesh8.1\lib
+3.项目-属性-链接器-输入-附加依赖项-编辑
+添加：
+OpenMeshCored.lib
+OpenMeshToolsd.lib
+OpenMeshCore.lib
+OpenMeshTools.lib
+
+4.项目-属性-C/C+±预处理器-预处理器定义-编辑
+添加：_USE_MATH_DEFINES
+————————————————
+版权声明：本文为CSDN博主「声声ss」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/Liuees/article/details/121150978
+
 # Reference
 
 * https://developer.aliyun.com/article/791142
