@@ -80,11 +80,17 @@ https://blog.csdn.net/m0_47854694/article/details/115261082
 ## openmesh
 
 1.项目-属性-VC++目录-包含目录-编辑
+
 添加：D:\OpenMesh8.1\include
+
 2.项目-属性-链接器-常规-附加库目录-编辑
+
 添加：D:\OpenMesh8.1\lib
+
 3.项目-属性-链接器-输入-附加依赖项-编辑
+
 添加：
+
 OpenMeshCored.lib;
 OpenMeshToolsd.lib;
 OpenMeshCore.lib;
